@@ -1,5 +1,5 @@
 To reproduce the chrome/edge browsers get closed issue, do the following:
-- update chrome/edge to the latest version
+- on Windows, update chrome/edge to the latest version
 - create multiple chrome/edge browsers
 - run the following code:
 
