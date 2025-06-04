@@ -1,6 +1,6 @@
 To reproduce the chrome/edge browsers get closed issue, do the following:
 - on Windows, update chrome/edge to the latest version
-- create multiple chrome/edge browsers
+- open multiple chrome/edge browsers
 - run the following code:
 
 ```bash
